@@ -1,0 +1,23 @@
+{
+  "name": "start-dev",
+  "version": "1.0.0",
+  "description": "A Command line tool to initialize a branch for you to get started with your dev work ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VedantS20/start-dev.git"
+  },
+  "author": "Vedant Sasane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VedantS20/start-dev/issues"
+  },
+  "homepage": "https://github.com/VedantS20/start-dev#readme",
+  "dependencies": {
+    "inquirer": "^9.1.5",
+    "simple-git": "^3.17.0"
+  }
+}
